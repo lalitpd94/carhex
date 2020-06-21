@@ -1,0 +1,116 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Home section */
+#home {
+  background-color: #000;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+}
+
+.home-title-1{
+  font-family: 'Cinzel';
+  color: white;
+  font-size: 25px;
+  padding-top: 20%;
+}
+
+.home-title-2{
+  font-family: 'Cinzel';
+  color: white;
+  font-size: 60px;
+}
+.container-fluid {
+  padding: 0 10%;
+  background-color:transparent;
+}
+.home-background {
+  padding: 0 10%;
+}
+
+.home-page {
+  text-align: center;
+  padding: 0 10%;
+}
+
+.home-img{
+  background-image: url('../images/home-background-1.jpg');
+}
+
+.search {
+  padding:3% 25% 30%;
+
+}
+
+/* break-line */
+
+#break-line {
+  background-color: #eee;
+  padding: 2%;
+}
+
+/* Cars Section */
+
+.cars-image-sedan {
+  width: 50%;
+  float: left;
+}
+.cars-image-suv {
+  width: 50%;
+  float: right;
+}
+
+.cars-text {
+  padding-top: 6%;
+}
+.carousel{
+  padding: 10% 0 10%;
+}
+
+.carousel-arrow-prev {
+  height: 200px;
+  width: 20px;
+  background-color: black;
+  margin-right: 50%;
+}
+
+.carousel-arrow-next {
+  height: 200px;
+  width: 20px;
+  background-color: black;
+  margin-left: 50%;
+}
+.cars-header {
+  padding-top: 1%;
+  text-align: center;
+  font-family: 'Cinzel';
+}
+
+/* Download */
+#download {
+  background-color: #000;
+}
+.download-page {
+  color: #fff;
+  line-height: 2rem;
+  background-image: url('../images/download-images.jpg');
+  padding: 15% 5% 20%;
+}
+
+.btn {
+  margin: 3% 1%;
+}
+
+/* Footer */
+
+.white-section {
+  background-color: #eee;
+  text-align: center;
+  padding-bottom: 1%;
+}
+.social-icon {
+  margin: 20px 10px;
+}
